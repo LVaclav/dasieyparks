@@ -9,6 +9,8 @@ html {
 @media (hover: none) {
     .homeHero {
         background-attachment: initial;
+        background-repeat: repeat;
+
     }
  }
 

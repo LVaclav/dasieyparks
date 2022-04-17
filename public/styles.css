@@ -3,7 +3,7 @@ html {
     background-position: center;
     background-size: auto;
     background-attachment: fixed;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-color: #6EA7B8;
 }
 

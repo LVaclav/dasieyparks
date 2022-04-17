@@ -6,13 +6,14 @@ html {
     background-repeat: no-repeat;
     background-color: #6EA7B8;
 }
+
 @media (hover: none) {
-    .homeHero {
+
+    html {
         background-attachment: initial;
         background-repeat: repeat;
-
     }
- }
+}
 
 body {
     background: transparent;
@@ -69,4 +70,3 @@ header {
 .inline {
     display: inline;
 }
-

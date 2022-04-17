@@ -38,6 +38,8 @@ header {
 
 }
 
+
+
 .container {
     text-align: center;
 
@@ -49,6 +51,10 @@ header {
     margin: auto;
 }
 
-.sans-serif {
-    font-family: 'Whisper', cursive;
+.Lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.My-Soul{
+    font-family: 'My Soul', cursive;
 }

@@ -4,12 +4,15 @@ html {
     background-size: auto;
     background-attachment: fixed;
     background-repeat: repeat;
+    background-color: #6EA7B8;
 }
 
 body {
     background: transparent;
     font-family: "Helvetica Neue", sans-serif;
     font-weight: lighter;
+    overflow: hidden;
+
 }
 
 .center {

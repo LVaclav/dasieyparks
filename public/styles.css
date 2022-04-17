@@ -6,6 +6,11 @@ html {
     background-repeat: no-repeat;
     background-color: #6EA7B8;
 }
+@media (hover: none) {
+    .homeHero {
+        background-attachment: initial;
+    }
+ }
 
 body {
     background: transparent;

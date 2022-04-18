@@ -26,6 +26,8 @@
     "node-fetch": "^3.2.3"
   },
   "dependencies": {
+    "@sentry/node": "^6.19.6",
+    "@sentry/tracing": "^6.19.6",
     "axios": "^0.26.1",
     "faunadb": "^4.5.4",
     "mc": "^1.0.6",
